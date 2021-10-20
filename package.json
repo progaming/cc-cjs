@@ -2,5 +2,19 @@
   "name": "cc-cjs",
   "version": "1.0.0",
   "module": "index.js",
-  "license": "MIT"
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/progaming/cc-cjs.git"
+  },
+  "author": "Chatpong Suteesuksataporn",
+  "bugs": {
+    "url": "https://github.com/progaming/cc-cjs/issues"
+  },
+  "homepage": "https://github.com/progaming/cc-cjs#readme",
+  "description": ""
 }
